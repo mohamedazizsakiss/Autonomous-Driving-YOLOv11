@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-green) ![YOLO](https://img.shields.io/badge/Model-YOLOv11-blue)
 
 ## 📌 Project Overview
-This project is part of my Engineering Degree (PFE). I developed a deep learning system to detect road obstacles for autonomous vehicles using the **BDD100K** dataset.
+ I developed a deep learning system to detect road obstacles for autonomous vehicles using the **BDD100K** dataset.
 
 ## 🧠 Model Details
 * **Architecture:** YOLOv11m (Medium)
