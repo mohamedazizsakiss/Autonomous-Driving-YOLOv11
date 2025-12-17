@@ -19,6 +19,10 @@ This project is part of my Engineering Degree (PFE). I developed a deep learning
 ### 2. Training Performance
 ![Loss Curves](./loss_curves.png)
 
+## 📥 Download the Model
+Due to GitHub's file size limits, the trained weights (`best.pt`) are hosted externally.
+[**👉 Click here to Download the Model (Google Drive)**](https://drive.google.com/file/d/1bAfw80--NDDiz8WodO9kTXO9g5DmQluf/view?usp=sharing)
+
 ## 📥 Usage
 ```python
 from ultralytics import YOLO
