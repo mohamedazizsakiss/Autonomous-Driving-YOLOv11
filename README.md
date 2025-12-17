@@ -15,10 +15,9 @@ This project is part of my Engineering Degree (PFE). I developed a deep learning
 ### 1. Confusion Matrix
 *(The model is highly accurate for Cars and Traffic Lights, as shown below)*
 ![Confusion Matrix](./confusion_matrix.png)
-*(Note: Make sure your uploaded image is actually named confusion_matrix.png, or change this text to match your filename)*
 
 ### 2. Training Performance
-![Loss Curves](./results.png)
+![Loss Curves](./loss_curves.png)
 
 ## 📥 Usage
 ```python
